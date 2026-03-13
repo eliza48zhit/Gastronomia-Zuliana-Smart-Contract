@@ -7,7 +7,7 @@ El contrato ha sido verificado satisfactoriamente. El código es público y perm
 
 Contract Address: 0x10c608972883dcd48bc12e9db716170c6ce5e66e
 
-Explorer Link: Ver en Basescan
+Explorer Link: [Ver en Basescan](https://basescan.org/address/0x10c608972883dcd48bc12e9db716170c6ce5e66e#code)
 
 🛠️ Detalles Técnicos
 
